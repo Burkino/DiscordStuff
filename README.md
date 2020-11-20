@@ -2,4 +2,4 @@
 
 # What is this?
 
-`Stuff used for my token generator.`
+`Stuff used for my discord token generator.`
